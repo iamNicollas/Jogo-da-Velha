@@ -6,6 +6,7 @@ Jogo criado para desenvolvimento e aprendizado com JavaScript
 ## Stack utilizada
 
 **Front-end:** HTML e CSS
+
 **Back-end:** JavaScript
 
 ## Documentação de cores
